@@ -1,0 +1,11 @@
+/Users/jamesmartin/Innovation/knightJourney/obj/Debug/netcoreapp2.2/knightJourney.csprojAssemblyReference.cache
+/Users/jamesmartin/Innovation/knightJourney/obj/Debug/netcoreapp2.2/knightJourney.csproj.CoreCompileInputs.cache
+/Users/jamesmartin/Innovation/knightJourney/obj/Debug/netcoreapp2.2/knightJourney.AssemblyInfoInputs.cache
+/Users/jamesmartin/Innovation/knightJourney/obj/Debug/netcoreapp2.2/knightJourney.AssemblyInfo.cs
+/Users/jamesmartin/Innovation/knightJourney/bin/Debug/netcoreapp2.2/knightJourney.deps.json
+/Users/jamesmartin/Innovation/knightJourney/bin/Debug/netcoreapp2.2/knightJourney.runtimeconfig.json
+/Users/jamesmartin/Innovation/knightJourney/bin/Debug/netcoreapp2.2/knightJourney.runtimeconfig.dev.json
+/Users/jamesmartin/Innovation/knightJourney/bin/Debug/netcoreapp2.2/knightJourney.dll
+/Users/jamesmartin/Innovation/knightJourney/bin/Debug/netcoreapp2.2/knightJourney.pdb
+/Users/jamesmartin/Innovation/knightJourney/obj/Debug/netcoreapp2.2/knightJourney.dll
+/Users/jamesmartin/Innovation/knightJourney/obj/Debug/netcoreapp2.2/knightJourney.pdb
